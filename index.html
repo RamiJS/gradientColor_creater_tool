@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>background </title>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <div id="app">
+      <div class="container">
+        <div class="selection">
+          <label for="cars">Choose the direction:</label>
+            <select name="colors" id="colors">
+              <!-- write all linear gradient directions inside option tag -->
+              <option value="to right">to right</option>
+              <option value="to left">to left</option>
+              <option value="to top">to top</option>
+              <option value="to bottom">to bottom</option>
+              <option value="to right top">to right top</option>
+              <option value="to right bottom">to right bottom</option>
+              <option value="to left top">to left top</option>
+              <option value="to left bottom">to left bottom</option>
+            </select>
+        </div>
+        <div class="inputs">
+          <label for="colors">Choose the colors:</label>
+          <div>
+            <input class="color1" type="color">
+            <input class="color2" type="color">
+          </div>
+        </div>
+        <div class="download_container">
+          <button class="download">
+            <a id="download-link" href="#" download="gradient.png">
+              download
+            </a>
+          </button>
+        
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
