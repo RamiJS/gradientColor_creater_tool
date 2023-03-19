@@ -4,8 +4,8 @@ This is a Gradient Color Creating Tool built using JavaScript that allows you to
 ## Getting Started
 To get started, follow these steps:
 
-1. Clone the repository: git clone https://github.com/<username>/<repository-name>.git
-2. Navigate to the project directory: cd <repository-name>
+1. Clone the repository: git clone https://github.com/RamiJS/gradientColor_creating_tool.git
+2. Navigate to the project directory: cd <gradientColor_creating_tool>
 3. Install dependencies: npm install
 4. Start the development server: npm run dev
 5. The development server will start on http://localhost:3000/ by default.
