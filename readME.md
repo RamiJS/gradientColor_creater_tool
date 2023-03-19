@@ -45,4 +45,4 @@ If you would like to contribute to this project, please follow these steps:
 
 
 ## License
-This project is licensed under the [MIT Licente]('https://opensource.org/license/mit/') - see the LICENSE file for details.
+This project is licensed under the [MIT Licente](https://opensource.org/license/mit/) - see the LICENSE file for details.
