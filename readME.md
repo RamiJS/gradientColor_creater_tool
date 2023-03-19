@@ -36,8 +36,8 @@ The following technologies were used to build this project:
 ## Contributing
 If you would like to contribute to this project, please follow these steps:
 
-1. Fork the repository: https://github.com/<username>/<repository-name>.git
-2. Clone your forked repository: git clone https://github.com/<your-username>/<repository-name>.git
+1. Fork the repository: https://github.com/RamiJS/gradientColor_creating_tool
+2. Clone your forked repository: git clone https://github.com/RamiJS/gradientColor_creating_tool
 3. Create a new branch: git checkout -b <branch-name>
 4. Make your changes and commit them: git commit -m '<commit-message>'
 5. Push your changes to your forked repository: git push origin <branch-name>
