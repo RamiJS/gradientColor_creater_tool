@@ -1,6 +1,9 @@
 # Gradient Color Creating Tool
 This is a Gradient Color Creating Tool built using JavaScript that allows you to create gradient colors with various options such as setting colors, direction of colors, and exporting the gradient color.
 
+## Live Version
+[Vist](https://gradientcolor-tool.netlify.app/)
+
 ## Getting Started
 To get started, follow these steps:
 
